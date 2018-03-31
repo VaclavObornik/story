@@ -1,0 +1,21 @@
+{
+  "name": "@storyous/story",
+  "version": "1.0.0",
+  "description": "universal base for storyous JS apps",
+  "main": "src/index",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Storyous",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "lodash.camelcase": "^4.3.0",
+    "mongodb": "^2.2.33",
+    "semver": "^5.4.1"
+  }
+}
